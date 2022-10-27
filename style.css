@@ -1,0 +1,35 @@
+.info_title{
+    margin-left: 10px;
+}
+
+.part{
+    margin-top: 50px;
+}
+
+.data{
+    margin: 0px;
+    margin-bottom: 5px;
+}
+
+#name{
+    margin-top: 20px;
+}
+
+h4{
+    text-shadow: 2px 2px 2px gray;
+}
+
+img{
+    margin-top: 10px;
+    box-shadow: 5px 5px 5px gray;
+}
+
+p{
+    text-indent: 1em;
+}
+
+table{
+    margin-top: 20px;
+    border: 1px solid black;
+    text-align: center;
+}
